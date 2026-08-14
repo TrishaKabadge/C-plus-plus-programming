@@ -18,7 +18,7 @@ cin>>salary;
 }
 void display()
 {
-cout<<"\nEmployee Information: "<<name<<endl;
+cout<<"\nEmployee Name: "<<name<<endl;
 cout<<"Employee ID: "<<employeeID<<endl;
 cout<<"Salary: "<<salary<<endl;
 }
